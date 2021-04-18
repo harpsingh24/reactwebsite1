@@ -1,0 +1,12 @@
+ .googlenoteform .title_input, .googlenoteform .iconPlus{ display: none;}
+.googlenoteform.showNote .title_input, .googlenoteform.showNote .iconPlus{ display: block;}
+
+
+
+
+
+
+
+
+
+
